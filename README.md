@@ -16,4 +16,4 @@ We found that running these notebooks is frequently subject to a lost connection
 Our final paper and poster are found under the deliverables/ folder.
 
 NOTE:
-- All .pkl files (data.pkl, vocabulary-embedding.pkl, vocabulary-embedding-data.pkl), our trained weights file (train.hdf5), and our dataset were too large for uploading to GitHub
+- All .pkl files (data.pkl, vocabulary-embedding.pkl, vocabulary-embedding-data.pkl), our trained weights file (train.hdf5), and our dataset were too large for a GitHub upload
