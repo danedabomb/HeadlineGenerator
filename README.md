@@ -1,5 +1,6 @@
 # Stanford University CS 230 Final Project 
 Title: Headline Generator
+
 Authors: David Liedtka and Dane Hankamer 
 
 Generates reasonable headlines based on the words in an article using Recurrent Neural Networks (RNNs). Original code forked from https://github.com/udibr/headlines. Worked with David Liedtka, a Naval Cryptologic Warfare Officer and a scholar.
